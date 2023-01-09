@@ -7,7 +7,7 @@ type = "blog"
 I'm a **sea sponge** who works as a fry cook at the **Krusty Krab**:
 ![](/img/krusty_krab.webp)
 
-The Krusty Krabe is a fast food restaurant known for it's signature burger:
+The Krusty Krabe is a restaurant known for it's signature burger:
 
 ![*The Krabby Patty*](/img/krabby_patty.webp)
 
